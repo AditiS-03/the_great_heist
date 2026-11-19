@@ -1,0 +1,38 @@
+# Screen dimensions
+SCREEN_WIDTH = 1280
+SCREEN_HEIGHT = 720
+
+# Game settings
+FPS = 60
+GAME_TITLE = "THE GREAT HEIST"
+
+# Grid settings
+TILE_SIZE = 48
+GRID_COLS = 15
+GRID_ROWS = 11
+
+BOARD_X = 45
+BOARD_Y = 95
+
+MAX_ROUNDS = 30
+
+# Colors (RGB)
+BACKGROUND = (16, 24, 39)
+PANEL = (25, 37, 58)
+PANEL_LIGHT = (35, 51, 76)
+
+WHITE = (240, 244, 250)
+MUTED = (155, 170, 190)
+
+PURPLE = (167, 139, 250)
+CYAN = (56, 189, 248)
+
+YELLOW = (250, 204, 21)
+ORANGE = (249, 115, 22)
+GREEN = (52, 211, 153)
+
+WALL = (71, 85, 105)
+FLOOR = (23, 37, 84)
+GRID = (48, 65, 94)
+
+RED = (248, 113, 113)
